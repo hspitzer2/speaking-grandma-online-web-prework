@@ -1,4 +1,4 @@
-def speak_ to speak_to_grandma(" I LOVE YOU TOO PUMPKIN!")
+def speak_to_grandma(" I LOVE YOU TOO PUMPKIN!")
   greeting == get.chomp
   if greeting.lowercase
     puts "HUH?! SPEAK UP, SONNY!"

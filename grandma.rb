@@ -1,5 +1,5 @@
 def speak_to_grandma(greeting)
-  greeting == get.chomp
+  greeting == gets.chomp
   if greeting.lowercase
     puts "HUH?! SPEAK UP, SONNY!"
   elsif greeting.upcase
